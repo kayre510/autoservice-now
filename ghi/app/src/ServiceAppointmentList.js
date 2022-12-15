@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from "react-router-dom";
+import './index.css';
 
 class ServiceAppointmentList extends React.Component {
     constructor(props) {
@@ -42,6 +43,13 @@ class ServiceAppointmentList extends React.Component {
     render() {
         return (
             <>
+                < br/>
+            <div id="heading">
+                <h1>All Appointments</h1>
+                <Link to="/appointments/new">
+                <button id="addbutton" className="btn btn-success">Create an Appointment</button>
+                </Link>
+            </div>
             <table className="table table-striped">
                 <thead>
                     <tr>

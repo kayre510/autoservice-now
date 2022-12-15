@@ -24,3 +24,7 @@ h1 {
   float: right;
   margin-left: 2rem;
 }
+
+#word-color {
+  color:black;
+}

@@ -12,4 +12,6 @@ urlpatterns = [
     path("appointments/vin/<str:vin>/", api_service_history, name="api_service_history"),
 
     path("automobiles/", api_list_auto_vos, name="api_list_auto_vos")
+
+
 ]

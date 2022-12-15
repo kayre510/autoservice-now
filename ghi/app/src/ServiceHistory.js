@@ -60,6 +60,7 @@ class ServiceHistory extends React.Component {
                     </thead>
                     <tbody>
                             {this.state.appointments.map((appointment) => {
+                                //
                                 return (
                                     <tr key={appointment.id}>
                                         <td>{appointment.vin}</td>
