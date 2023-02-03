@@ -33,7 +33,7 @@ function ImageSlider() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://cdn.motor1.com/images/mgl/VEg7z/s1/inden-design-mercedes-c63-amg-black-series-conversion.jpg"
+          src="https://cdn.dealeraccelerate.com/motorcar/1/610/3001/1920x1440/2013-mercedes-benz-c63-amg"
           alt="Third slide"
         />
 
