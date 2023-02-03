@@ -1,4 +1,4 @@
-# CarCar
+# Auto Service Now
 
 Team:
 * Stephanie Hestilow - Sales
@@ -20,8 +20,8 @@ In your command terminal type:
 6. To see and engage with the app, open up google chrome go to http://localhost:3000
 
 ## Design
-![CarCar Design](/images/CarCarDiagram.png "
-CarCar Design")
+![Auto Service Now Design](/images/Auto Service NowDiagram.png "
+Auto Service Now Design")
 
 ## Service microservice
 - The Services microservice includes:
